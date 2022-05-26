@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Rodrigo Fernandez
+192.168.0.204
+11:08
+=======
+
+>>>>>>> e07e68baa73840c36977a81ccda20cc9a01a0e3f
+=======
 Gonzalo Alvarez
 192.168.56.1
 11:05
@@ -5,3 +14,4 @@ Gonzalo Alvarez
 Franco Buonfrate 
 192.168.0.68
 12:30
+>>>>>>> eb9448d0839dac0c6816b36bbfc7fd076a2d576a

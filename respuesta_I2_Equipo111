@@ -17,4 +17,40 @@ c- GAMMA no puede actualizar su fork al estado del de ALFA ya que su fork origin
 
 d- Si actualizo el repositorio, los datos editados por mi no se pierden sino que se acoplan al nuevo estado.
 
-e- 
+e- BETA:Buonfrate Franco
+GAMMA: Alvarez Gonzalo
+ALFA: Fernandez Barbero Rodrigo
+
+BETA crea el repositorio
+BETA lo baja de manera local usando git clone
+BETA crea el archivo fork.txt
+BETA usa el comando git add .
+BETA usa el comando git commit
+BETA usa el comando push para subirlo
+
+ALFA hace el fork del repositorio de BETA
+ALFA usa el comando git clone para bajar su repositorio de manera local
+ALFA usa el comando git remote add upstream https://github.com/Franco-Buonfrate/TP_SO_i2_Equipo111
+ALFA usa el comando git remote -v 
+ALFA usa el comando git fetch upstream
+ALFA usa el comando git pull upstream main
+ALFA usa el comando git add .
+ALFA usa el comando git commit 
+ALFA usa el comando git pull upstream/main
+ALFA usa el comando git push origin main
+
+GAMMA hace el fork del repositorio de BETA
+GAMMA usa el comando git clone para bajar su repositorio de manera local
+GAMMA usa el comando git remote add upstream https://github.com/Franco-Buonfrate/TP_SO_i2_Equipo111
+GAMMA usa el comando git remote -v 
+GAMMA usa el comando git fetch upstream
+GAMMA usa el comando git pull upstream main
+GAMMA usa el comando git add .
+GAMMA usa el comando git commit 
+GAMMA usa el comando git pull upstream/main
+GAMMA usa el comando git push origin main
+
+BETA crea el archivo respuesta_I2_Equipo111
+ALFA Y GAMMA repiten el proceso previo agregando los nuevos datos al archivo respuesta_I2_Equipo111
+BETA repite el proceso y sube sus respuestas
+
