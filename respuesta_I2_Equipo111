@@ -1,0 +1,20 @@
+Fernandez Barbero Rodrigo
+Buonfrate Franco
+Alvarez Gonzalo
+
+a- Hay dos formas de actualizar mi repositorio forkeado al estado del fork original:
+Por la pagina: Con la opcion fetch upstream --> fetch and merge
+Por git bash: 
+1.Agrego una referencia al repositorio Fork original con git remote add upstream (Link del repo original)
+2.Obtener las ramas de ese repositorio con git fecth upstream
+3.Seleccionar la rama que queremos actualizar con git checkout main
+4.Reescribir mi repositorio con los datos del repositorio original con git rebase upstream/main
+5.Actualizar mi repositorio con  git push -f origin main
+
+b- ALFA no puede actualizar su fork al estado del de GAMMA ya que su fork original es el de BETA.
+
+c- GAMMA no puede actualizar su fork al estado del de ALFA ya que su fork original es el de BETA.
+
+d- Si actualizo el repositorio, los datos editados por mi no se pierden sino que se acoplan al nuevo estado.
+
+e- 
