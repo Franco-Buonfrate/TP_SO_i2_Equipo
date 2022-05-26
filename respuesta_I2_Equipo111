@@ -13,8 +13,8 @@ Por git bash:
 
 b- ALFA no puede actualizar su fork al estado del de GAMMA ya que su fork original es el de BETA.
 
-c- 
+c- GAMMA no puede actualizar su fork al estado del de ALFA ya que su fork original es el de BETA.
 
-d- 
+d- Si actualizo el repositorio, los datos editados por mi no se pierden sino que se acoplan al nuevo estado.
 
 e- 
